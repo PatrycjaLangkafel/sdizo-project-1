@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1620245163 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\doublelist.cpp
+	<iostream>
+	"DoubleList.h"
+
+1619305641 c:\users\patry\onedrive\pulpit\project_1_sdizo\doublelist.h
+	<iostream>
+	"List.h"
+
+1620057778 c:\users\patry\onedrive\pulpit\project_1_sdizo\list.h
+
+1620246845 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\heap.cpp
+	<iostream>
+	"Heap.h"
+
+1620242044 c:\users\patry\onedrive\pulpit\project_1_sdizo\heap.h
+	<iostream>
+	"Tab.h"
+
+1619902294 c:\users\patry\onedrive\pulpit\project_1_sdizo\tab.h
+	<iostream>
+
+1620065745 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\list.cpp
+	"List.h"
+
+1620169725 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\main.cpp
+	<iostream>
+	"NumberGenerator.h"
+	"Test.h"
+	"Menu.h"
+	<stdlib.h>
+
+1620066214 c:\users\patry\onedrive\pulpit\project_1_sdizo\numbergenerator.h
+	<iostream>
+
+1619808711 c:\users\patry\onedrive\pulpit\project_1_sdizo\test.h
+	<iostream>
+	<string>
+	<ctime>
+	<chrono>
+	<conio.h>
+	<stdlib.h>
+
+1620066748 c:\users\patry\onedrive\pulpit\project_1_sdizo\menu.h
+	<iostream>
+
+1620241881 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\menu.cpp
+	<iostream>
+	"Menu.h"
+	"DoubleList.h"
+	"Tab.h"
+	"Heap.h"
+	<stdlib.h>
+	<fstream>
+
+1620066226 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\numbergenerator.cpp
+	<random>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	"NumberGenerator.h"
+
+1620245163 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\tab.cpp
+	<iostream>
+	"Tab.h"
+
+1620248296 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\test.cpp
+	<iostream>
+	<fstream>
+	"Time.h"
+	"Test.h"
+	"Tab.h"
+	"DoubleList.h"
+	"Heap.h"
+	<string>
+	<ctime>
+	<chrono>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+
+1620083272 c:\users\patry\onedrive\pulpit\project_1_sdizo\time.h
+	<iostream>
+	<windows.h>
+	<iomanip>
+
+1620083272 source:c:\users\patry\onedrive\pulpit\project_1_sdizo\time.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	"Time.h"
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Project_1_sdizo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Project_1_sdizo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Project_1_sdizo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="10.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="50000.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DoubleList.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DoubleList.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Heap.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Heap.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="List.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="List.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Main.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Menu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Menu.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="NumberGenerator.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="NumberGenerator.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Tab.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Tab.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Test.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Test.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Time.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Time.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="wyniki-sdizo.txt">
+			<Option target="Release" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
